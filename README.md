@@ -9,7 +9,7 @@ HOW TO USE
 
 CHANGING THE NUMBERS 
 
-go to line 11 and you should see max_num = 99999999999999999999999999999999999999999999999999 just edit that default number make sure the number ends with 1 for e.g if you put 1001 it would genarate 1000 numbers 
+go to line 11 and you should see max_num = 99999999999999999999999999999999999999999999999999 just edit that default number make sure if you want to for e.g make it gen 100 numbers you should make it 101 then it will genarate 100 numbers idk why python is weird :D 
 
 ACSESSING THE CODE
 
