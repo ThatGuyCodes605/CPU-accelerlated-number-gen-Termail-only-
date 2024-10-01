@@ -7,4 +7,4 @@ HOW TO USE
 
 CHANGING THE NUMBERS 
 
-go to line 11 and you should see max_num = 99999999999999999999999999999999999999999999999999 just edit that default number
+go to line 11 and you should see max_num = 99999999999999999999999999999999999999999999999999 just edit that default number make sure the number ends with 1 for e.g if you put 1001 it would genarate 1000 numbers 
